@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="CountryMigrator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="46" Y="42"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="92"/>
+        <CursorPos Y="111"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uCSVHelper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="110"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uJSONHelper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="104" Y="64"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uMigrationThread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="69"/>
+        <CursorPos Y="68"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uTypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1786"/>
+        <CursorPos X="3" Y="1705"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\sqldb\sqldb.pp"/>
+        <UnitName Value="SQLDB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="177"/>
+        <CursorPos X="14" Y="305"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\base\db.pas"/>
+        <UnitName Value="DB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2014"/>
+        <CursorPos X="15" Y="2025"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\base\database.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="672"/>
+        <CursorPos Y="675"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\sqlite\src\sqlite3.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1154"/>
+        <CursorPos X="10" Y="1166"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="106" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="107" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="108" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="101" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="103" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="104" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="105" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="106" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="107" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="108" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="101" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="100" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="95" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="112" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uMigrationThread.pas"/>
+        <Caret Line="67" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="uMigrationThread.pas"/>
+        <Caret Line="68" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="uSQLiteHelper.pas"/>
+        <Caret Line="111" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="60" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="61" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="62" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="64" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="65" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="66" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="68" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="69" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="70" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="71" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="72" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="59" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="uJSONHelper.pas"/>
+        <Caret Line="64" Column="17" TopLine="53"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\base\database.inc"/>
+        <Line Value="675"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uMigrationThread.pas"/>
+        <Line Value="100"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
